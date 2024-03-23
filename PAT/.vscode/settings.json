@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "*.dart": "dart",
+        "*.tsx": "typescriptreact",
+        "B1Q3.C": "cpp",
+        "B1Q3_insertion_sort_scenario.c.C": "cpp",
+        "B1Q1_.C": "cpp",
+        "B2Q2.C": "cpp"
+    }
+}
